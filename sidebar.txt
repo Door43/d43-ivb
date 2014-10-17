@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ivb:home|Door43 (ivb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ivb|d43-ivb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ivb/archive/master.zip|d43-ivb.zip]]
+
+**Recent Changes**
+{{changes>ns = ivb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ivb|Ethnologue data]]
+
